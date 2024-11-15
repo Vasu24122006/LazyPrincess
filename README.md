@@ -32,21 +32,21 @@
 Read [this](https://telegram.dog/LazyDevelopers/8) before you start messing up with your edits.
 
 ### Required Variables
-* `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-* `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
-* `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
-* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com).
-* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com).
-* `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
-* `REQ_CHANNEL`: Channel ID where logs of requested content is to be sent.
+* `7816883745:AAG7d36lx-U2m4R7EddIPwbIbXbkRkc5UnI`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
+* `28055923`: Get this value from [telegram.org](https://my.telegram.org/apps)
+* `4903d5ebbf5f4b7edcf0ff82293e58d7`: Get this value from [telegram.org](https://my.telegram.org/apps)
+* `bhediya2412`: Username or ID of channel or group. Separate multiple IDs by space
+* `28055923`: Username or ID of Admin. Separate multiple Admins by space
+* `mongodb+srv://vasu24122006:<@Vasu2412>@cluster0.w3cmc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com).
+* `cluster0`: Name of the database in [mongoDB](https://www.mongodb.com).
+* `-1002149303924` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
+* `-1002149303924`: Channel ID where logs of requested content is to be sent.
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
-* `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* `LAZY_MODE`: True or False . If true then bot will rename files else it will not rename.
+* `bhediya2412`: Channel from were file store links of posts should be made.Separate multiple IDs by space
+* `false`: True or False . If true then bot will rename files else it will not rename.
 * `LAZY_RENAMERS`: ID of the users to which you want to give file renaming authentication. Separate multiple ids by space.
-* `REQ_CHANNEL`: ID of the channel where you want to send request logs.
-* `URL_MODE`: True or False. If true then bot will use url shortner.
+* `bhediya2412`: ID of the channel where you want to send request logs.
+* `false`: True or False. If true then bot will use url shortner.
 * `URL_SHORTENR_WEBSITE`: Name of the url shortner website.
 * `URL_SHORTNER_WEBSITE_API`: API ID of the url shortner website.
 * `LZURL_PRIME_USERS`: IDs of the users who you don't want to use url. Separate multiple ids by space
